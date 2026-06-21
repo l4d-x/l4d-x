@@ -10,7 +10,7 @@ AI/ML Engineer building production AI applications end-to-end — backend in Pyt
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=l4d-x&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=l4d-x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophy-snake.vercel.app/?username=l4d-x&theme=radical&row=1&column=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=l4d-x&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=l4d-x&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
